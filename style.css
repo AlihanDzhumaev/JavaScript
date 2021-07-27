@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+.number {
+    border: 1px solid red;
+    padding: 1em;
+}
